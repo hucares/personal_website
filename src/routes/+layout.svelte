@@ -22,7 +22,7 @@
   {#if !dev}
     <script
       async
-      src="https://www.googletagmanager.com/gtag/js?id=UA-156644599-1"
+      src="https://www.googletagmanager.com/gtag/js?id="
     ></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -30,7 +30,7 @@
         dataLayer.push(arguments);
       }
       gtag("js", new Date());
-      gtag("config", "UA-156644599-1");
+      gtag("config", "");
     </script>
   {/if}
 </svelte:head>

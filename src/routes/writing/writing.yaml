@@ -1,16 +1,10 @@
 papers:
-  - title: Designing Datalog-Based Embedded Languages
-    date: 2023-03-24
+  - title: "The Inevitable Product: GLP1 Adoption and Investment"
+    date: 2024-06-15
     summary: >
-      My senior thesis, where I design and implement two logic programming
-      languages, present case studies on their real-world usage, and evaluate
-      them as systems.
     link: /assets/pdf/Senior_Thesis.pdf
 
-notes:
-  - title: "Stat 211: Statistical Inference"
-    date: 2021-12-01
+  - title: "Hello World!"
+    date: 2024-06-15
     summary: >
-      Graduate-level class discussing inference on statistical models,
-      frequentist and Bayesian perspectives.
-    link: /assets/pdf/Stat_211_Notes.pdf
+    link: /assets/pdf/Senior_Thesis.pdf

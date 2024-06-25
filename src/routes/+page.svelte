@@ -18,7 +18,7 @@
 
     <p>
       While my primary skill is software engineering, I seek to maximize impact wherever I find myself.
-      Sometimes this involves solving thorny product, operations, or go-to-market problems.
+      Sometimes this means solving thorny product, operations, or go-to-market problems.
       I love thinking about the future. Of particular interest to me right now are semiconductors and GLP1 drugs.
     </p>
 
