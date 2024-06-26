@@ -14,3 +14,8 @@ This website is powered by [SvelteKit](https://kit.svelte.dev/) and
 $ npm install
 $ npm run dev
 ```
+
+# TODO
+Have unified folders for images and blog post writing
+
+[Reference Repo for sveltekit blog](https://github.com/rodneylab/sveltekit-blog-mdx)

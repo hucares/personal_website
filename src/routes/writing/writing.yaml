@@ -1,10 +1,5 @@
 papers:
-  - title: "The Inevitable Product: GLP1 Adoption and Investment"
-    date: 2024-06-15
-    summary: >
-    link: /assets/pdf/Senior_Thesis.pdf
-
   - title: "Hello World!"
     date: 2024-06-15
     summary: >
-    link: /assets/pdf/Senior_Thesis.pdf
+    link: /writing/hello-world
