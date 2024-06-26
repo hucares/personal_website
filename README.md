@@ -18,4 +18,7 @@ $ npm run dev
 # TODO
 Have unified folders for images and blog post writing
 
+SEO optimizations around alternate images
+topic
+
 [Reference Repo for sveltekit blog](https://github.com/rodneylab/sveltekit-blog-mdx)
