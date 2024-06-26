@@ -7,8 +7,6 @@
 
   export let data;
   const { page, post, imageData } = data;
-
-  console.log(data);
 </script>
 
 <Seo title="Alex Hu – Writing | {page.title}" description={page.description} />
