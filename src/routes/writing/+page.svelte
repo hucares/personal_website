@@ -10,5 +10,5 @@
 />
 
 <section class="layout-md py-12">
-    <WritingList data={writing.papers} />
+  <WritingList data={writing.papers} />
 </section>

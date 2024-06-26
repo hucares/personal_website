@@ -4,10 +4,7 @@
   import Seo from "$lib/components/Seo.svelte";
 </script>
 
-<Seo
-  title="Alex Hu"
-  description="Software engineer and founder."
-/>
+<Seo title="Alex Hu" description="Software engineer and founder." />
 
 <div class="layout-md text-lg space-y-14">
   <div class="space-y-5">
@@ -17,17 +14,19 @@
     </p>
 
     <p>
-      While my primary skill is software engineering, I seek to maximize impact wherever I find myself.
-      Sometimes this means solving thorny product, operations, or go-to-market problems.
-      I love thinking about the future. Of particular interest to me right now are semiconductors and GLP1 drugs.
+      While my primary skill is software engineering, I seek to maximize impact
+      wherever I find myself. Sometimes this means solving thorny product,
+      operations, or go-to-market problems. I love thinking about the future. Of
+      particular interest to me right now are semiconductors and GLP1 drugs.
     </p>
 
     <p>
-      Previously, I've worked at <a class="link" href="https://asana.com">Asana</a>,
+      Previously, I've worked at <a class="link" href="https://asana.com"
+        >Asana</a
+      >,
       <a class="link" href="https://flexport.com">Flexport</a>, and
-      <a class="link" href="https://standard.ai">Standard AI</a>.
-
-      I graduated from UC Berkeley with a degree in computer science.
+      <a class="link" href="https://standard.ai">Standard AI</a>. I graduated
+      from UC Berkeley with a degree in computer science.
     </p>
 
     <p>Other interests: running, reading, BJJ, photography.</p>

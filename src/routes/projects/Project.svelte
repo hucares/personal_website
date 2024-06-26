@@ -56,13 +56,16 @@
     </div>
     <div class="col-span-3 md:col-span-1">
       {#if data.image}
-      <a rel="external" href={images[`../../projects/${data.image}`]?.default}>
-        <img
-          src={images[`../../projects/${data.image}`]?.default}
-          alt="{data.title} preview image"
-          class:border={data.image_border}
-        />
-      </a>
+        <a
+          rel="external"
+          href={images[`../../projects/${data.image}`]?.default}
+        >
+          <img
+            src={images[`../../projects/${data.image}`]?.default}
+            alt="{data.title} preview image"
+            class:border={data.image_border}
+          />
+        </a>
       {/if}
     </div>
   </div>
