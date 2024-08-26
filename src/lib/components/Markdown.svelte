@@ -23,7 +23,9 @@
 </script>
 
 <div class="md-output">
-  {@html html}
+  <article class="prose">
+    {@html html}
+  </article>
 </div>
 
 <style lang="postcss">
