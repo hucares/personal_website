@@ -20,14 +20,18 @@
 <svelte:head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
   {#if !dev}
-    <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-WLNQLVY0V8"
+    ></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag() {
         dataLayer.push(arguments);
       }
       gtag("js", new Date());
-      gtag("config", "");
+
+      gtag("config", "G-WLNQLVY0V8");
     </script>
   {/if}
 </svelte:head>
